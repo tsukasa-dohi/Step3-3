@@ -1,0 +1,9 @@
+c:\users\tsukasa1124\documents\visual studio 2015\Projects\Step3-3\Step3-3\bin\Debug\Step3-3.exe.config
+c:\users\tsukasa1124\documents\visual studio 2015\Projects\Step3-3\Step3-3\bin\Debug\Step3-3.exe
+c:\users\tsukasa1124\documents\visual studio 2015\Projects\Step3-3\Step3-3\bin\Debug\Step3-3.pdb
+c:\users\tsukasa1124\documents\visual studio 2015\Projects\Step3-3\Step3-3\obj\Debug\Step3-3.csprojResolveAssemblyReference.cache
+c:\users\tsukasa1124\documents\visual studio 2015\Projects\Step3-3\Step3-3\obj\Debug\Step3_3.Step3_3.resources
+c:\users\tsukasa1124\documents\visual studio 2015\Projects\Step3-3\Step3-3\obj\Debug\Step3_3.Properties.Resources.resources
+c:\users\tsukasa1124\documents\visual studio 2015\Projects\Step3-3\Step3-3\obj\Debug\Step3-3.csproj.GenerateResource.Cache
+c:\users\tsukasa1124\documents\visual studio 2015\Projects\Step3-3\Step3-3\obj\Debug\Step3-3.exe
+c:\users\tsukasa1124\documents\visual studio 2015\Projects\Step3-3\Step3-3\obj\Debug\Step3-3.pdb
